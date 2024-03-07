@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Moon";
+    font-style: normal;
+    font-weight: 400;
+    src: 
+    url(Moon2.0-Bold.otf) format("truetype");
+    
+}
+body {
+color: white;
+background-color: pink;
+font-family: "Moon";
+font-size: larger;
+font-kerning: normal;
+font-weight: 400;
+text-align: center;
+
+}
+img {
+
+}
